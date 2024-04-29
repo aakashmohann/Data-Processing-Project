@@ -32,7 +32,7 @@ $ pip install pandas streamlit pymongo psycopg2 python-docx
 
 Copy code
 
-$ streamlit run app.py
+$ streamlit run project1.py
 
 ->Access the Streamlit app in your web browser.
 
